@@ -1,0 +1,10 @@
+
+venv/
+dataset/
+runs/
+test_images/
+__pycache__/
+*.pyc
+validation.log
+yolo11n.pt
+.DS_Store
